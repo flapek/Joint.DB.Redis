@@ -1,5 +1,10 @@
 # Joint.DB.Redis
 
+| Branch  | Build status                                                                                                                   |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| master  | [![Build Status](https://travis-ci.org/flapek/Joint.DB.Redis.svg?branch=master)](https://travis-ci.org/flapek/Joint.DB.Redis)  |
+| develop | [![Build Status](https://travis-ci.org/flapek/Joint.DB.Redis.svg?branch=develop)](https://travis-ci.org/flapek/Joint.DB.Redis) |
+
 ## Redis
 
 Adds the [Redis](https://redis.io/) integration with .NET Core based on [IDistributedCache](https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.caching.distributed.idistributedcache?view=dotnet-plat-ext-3.1) abstraction.
